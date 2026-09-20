@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Vaibhav Chauhan terminal developer profile</title>
+  <desc id="desc">A dark terminal-inspired developer banner with animated particles, rings, and a typing cursor.</desc>
+
+  <defs>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#252525" stroke-width="1"/>
+    </pattern>
+
+    <radialGradient id="glow" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#303030" stop-opacity=".55"/>
+      <stop offset="65%" stop-color="#111111" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#050505" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="textGlow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="620" rx="28" fill="#050505"/>
+  <rect x="2" y="2" width="1196" height="616" rx="26" fill="url(#grid)" stroke="#303030" stroke-width="3"/>
+  <ellipse cx="600" cy="250" rx="440" ry="250" fill="url(#glow)"/>
+
+  <!-- Orbiting rings -->
+  <g fill="none" stroke="#bdbdbd" opacity=".7">
+    <ellipse cx="600" cy="235" rx="365" ry="150" stroke-width="1.5">
+      <animateTransform attributeName="transform" type="rotate" from="0 600 235" to="360 600 235" dur="18s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="600" cy="235" rx="300" ry="190" stroke-width="1" stroke-dasharray="4 12">
+      <animateTransform attributeName="transform" type="rotate" from="360 600 235" to="0 600 235" dur="24s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- Particle field -->
+  <g fill="#eeeeee" filter="url(#softGlow)">
+    <g>
+      <circle cx="260" cy="210" r="3"><animate attributeName="opacity" values=".15;1;.15" dur="2.3s" repeatCount="indefinite"/></circle>
+      <circle cx="315" cy="130" r="2"><animate attributeName="opacity" values="1;.15;1" dur="3.1s" repeatCount="indefinite"/></circle>
+      <circle cx="395" cy="90" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2.7s" repeatCount="indefinite"/></circle>
+      <circle cx="470" cy="75" r="2"><animate attributeName="opacity" values="1;.2;1" dur="2.1s" repeatCount="indefinite"/></circle>
+      <circle cx="560" cy="65" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="3.5s" repeatCount="indefinite"/></circle>
+      <circle cx="650" cy="75" r="2"><animate attributeName="opacity" values="1;.15;1" dur="2.8s" repeatCount="indefinite"/></circle>
+      <circle cx="735" cy="95" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2.5s" repeatCount="indefinite"/></circle>
+      <circle cx="825" cy="140" r="2"><animate attributeName="opacity" values="1;.2;1" dur="3.2s" repeatCount="indefinite"/></circle>
+      <circle cx="900" cy="220" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="870" cy="315" r="2"><animate attributeName="opacity" values="1;.15;1" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="790" cy="385" r="3"><animate attributeName="opacity" values=".15;1;.15" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="680" cy="415" r="2"><animate attributeName="opacity" values="1;.2;1" dur="3.3s" repeatCount="indefinite"/></circle>
+      <circle cx="530" cy="415" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2.9s" repeatCount="indefinite"/></circle>
+      <circle cx="410" cy="390" r="2"><animate attributeName="opacity" values="1;.15;1" dur="2.2s" repeatCount="indefinite"/></circle>
+      <circle cx="315" cy="325" r="3"><animate attributeName="opacity" values=".15;1;.15" dur="3.4s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+
+  <!-- Terminal window -->
+  <rect x="370" y="155" width="460" height="230" rx="12" fill="#070707" stroke="#d0d0d0" stroke-width="2"/>
+  <circle cx="395" cy="180" r="5" fill="#777"/>
+  <circle cx="413" cy="180" r="5" fill="#999"/>
+  <circle cx="431" cy="180" r="5" fill="#ccc"/>
+
+  <text x="395" y="220" fill="#aaa" font-family="monospace" font-size="16">&gt; whoami</text>
+  <text x="395" y="252" fill="#f2f2f2" font-family="monospace" font-size="22">Vaibhav-1786</text>
+
+  <text x="395" y="290" fill="#aaa" font-family="monospace" font-size="16">&gt; role</text>
+  <text x="395" y="320" fill="#f2f2f2" font-family="monospace" font-size="18">FULL-STACK DEVELOPER</text>
+
+  <text x="395" y="352" fill="#aaa" font-family="monospace" font-size="16">&gt; status</text>
+  <text x="395" y="377" fill="#f2f2f2" font-family="monospace" font-size="16">BUILDING REAL-WORLD SOFTWARE</text>
+
+  <!-- Main title -->
+  <text x="600" y="500" text-anchor="middle" fill="#f2f2f2"
+        font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="76"
+        letter-spacing="7" filter="url(#textGlow)">VAIBHAV CHAUHAN</text>
+
+  <text x="600" y="540" text-anchor="middle" fill="#bdbdbd"
+        font-family="Arial, Helvetica, sans-serif" font-size="22"
+        letter-spacing="5">WEB • APIs • ERP • SAAS</text>
+
+  <text x="600" y="575" text-anchor="middle" fill="#8f8f8f"
+        font-family="monospace" font-size="15">BUILD • BREAK • LEARN • REPEAT</text>
+
+  <!-- Cursor -->
+  <rect x="835" y="560" width="10" height="18" fill="#f2f2f2">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
