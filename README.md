@@ -107,14 +107,6 @@ https://github.com/Vaibhav-1786/Real_Estate-Project
 
 ---
 
-📈 GitHub
-
-<div align="center"><a href="https://github.com/Vaibhav-1786">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-1786&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="Vaibhav's GitHub statistics">
-</a><a href="https://github.com/Vaibhav-1786">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-1786&layout=compact&hide_border=true" height="165" alt="Vaibhav's most used languages">
-</a></div>---
-
 🤝 Let's Connect
 
 I'm always interested in connecting with developers, collaborating on projects, and discussing software development.
