@@ -59,7 +59,6 @@ College ERP platform for academic management, administration, and centralized da
 
 Real-estate application for property discovery, customer management, leads, and business workflows.
 🔗 "Repository" (https://github.com/Vaibhav-1786/Real_Estate-Project)
-
 ---
 
 🎯 What I'm Currently Focused On
