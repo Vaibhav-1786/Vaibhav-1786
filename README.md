@@ -47,7 +47,7 @@ Frontend
 
 🍔 Food Delivery Platform
 
-Full-stack food delivery application with customer ordering, restaurant management, and order tracking.
+Full-stack food delivery application with customer ordering, restaurant management, and order tracking. <br>
 🔗 <a href="https://github.com/Vaibhav-1786/Food_Delivery">Repository</a>
 
 🎓 PrimeTech College ERP
