@@ -1,4 +1,4 @@
- {align="center"}
+::: {align="center"}
 <img src="./assets/vc-logo.gif" alt="VAIBHAV-1786" width="180"/>{=html}
 
 VAIBHAV CHAUHAN
