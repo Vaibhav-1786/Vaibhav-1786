@@ -108,20 +108,4 @@ https://github.com/Vaibhav-1786/Real_Estate-Project
 ---
 🤝 Connect With Me
 
-<p align="center"><a href="https://github.com/Vaibhav-1786">
-  <img src="https://img.icons8.com/color/96/github--v1.png" width="85" height="85" alt="GitHub">
-  <br>
-  <b>GitHub</b>
-</a>        
-
-<a href="https://www.linkedin.com/in/vaibhav-chauhan-a6b204391/">
-  <img src="https://img.icons8.com/color/96/linkedin.png" width="85" height="85" alt="LinkedIn">
-  <br>
-  <b>LinkedIn</b>
-</a>        
-
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.icons8.com/color/96/gmail-new.png" width="85" height="85" alt="Email">
-  <br>
-  <b>Email</b>
-</a></p>
+<p align="center"><a href="https://github.com/Vaibhav-1786"><img src="https://img.icons8.com/color/96/github--v1.png" width="75" alt="GitHub"><br><b>GitHub</b></a>&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/in/vaibhav-chauhan-a6b204391/"><img src="https://img.icons8.com/color/96/linkedin.png" width="75" alt="LinkedIn"><br><b>LinkedIn</b></a>&emsp;&emsp;&emsp;<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.icons8.com/color/96/gmail-new.png" width="75" alt="Email"><br><b>Email</b></a></p>
