@@ -27,7 +27,7 @@
 ## `tech stack`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,mongodb,ts,nextjs" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql" alt="Tech stack">
 </div>
 
 ---
