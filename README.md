@@ -47,52 +47,18 @@ Frontend
 
 🍔 Food Delivery Platform
 
-A multi-role food delivery platform designed to handle customer ordering, restaurant workflows, tracking, and business operations.
-
-Highlights
-
-- Customer ordering workflow
-- Restaurant management functionality
-- Order tracking
-- Business-oriented features
-- Full-stack application architecture
-
-🔗 Repository:
-https://github.com/Vaibhav-1786/Food_Delivery
-
----
+Full-stack food delivery application with customer ordering, restaurant management, and order tracking.
+🔗 "Repository" (https://github.com/Vaibhav-1786/Food_Delivery)
 
 🎓 PrimeTech College ERP
 
-A college ERP solution designed to streamline administrative and academic workflows through a centralized software platform.
-
-Highlights
-
-- College administration workflows
-- Academic management
-- Centralized data management
-- Automation-focused functionality
-- Business process management
-
-🔗 Repository:
-https://github.com/Vaibhav-1786/PrimeTechCollege_ERP
-
----
+College ERP platform for academic management, administration, and centralized data handling.
+🔗 "Repository" (https://github.com/Vaibhav-1786/PrimeTechCollege_ERP)
 
 🏠 Real Estate Platform
 
-A real-estate application focused on property discovery, customer management, lead handling, and business workflows.
-
-Highlights
-
-- Property discovery
-- Customer management
-- Lead management
-- CRM-oriented workflows
-- Analytics and business tools
-
-🔗 Repository:
-https://github.com/Vaibhav-1786/Real_Estate-Project
+Real-estate application for property discovery, customer management, leads, and business workflows.
+🔗 "Repository" (https://github.com/Vaibhav-1786/Real_Estate-Project)
 
 ---
 
