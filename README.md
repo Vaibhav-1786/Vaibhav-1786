@@ -51,19 +51,19 @@ Frontend
 
 🍔 Food Delivery Platform
 
-Full-stack food delivery application with customer ordering, restaurant management, and order tracking.
+Full-stack food delivery application with customer ordering, restaurant management, and order tracking. <br>
 Tech: HTML • CSS • JavaScript • React • Node.js • MySQL <br>
 🔗 <a href="https://github.com/Vaibhav-1786/Food_Delivery">Repository</a>
 
 🎓 PrimeTech College ERP
 
-College ERP platform for academic management, administration, and centralized data handling.
+College ERP platform for academic management, administration, and centralized data handling. <br> 
 Tech: HTML • CSS • JavaScript • React • Node.js • MySQL <br>
 🔗 <a href="https://github.com/Vaibhav-1786/PrimeTechCollege_ERP">Repository</a>
 
 🏠 Real Estate Platform
 
-Real-estate application for property discovery, customer management, leads, and business workflows.
+Real-estate application for property discovery, customer management, leads, and business workflows. <br>
 Tech: HTML • CSS • JavaScript • React • Node.js • MySQL <br>
 🔗 <a href="https://github.com/Vaibhav-1786/Real_Estate-Project">Repository</a>
 
