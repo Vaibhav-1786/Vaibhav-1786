@@ -19,17 +19,14 @@ Building scalable web applications, APIs, and business-focused software solution
 ---
 
 👨‍💻 About Me
-
 I'm a Full Stack Developer focused on building practical, reliable, and user-focused web applications.
-
-I enjoy working across the entire development lifecycle — from designing interfaces and building APIs to working with databases and turning ideas into functional products.
-
-- 💻 Full Stack Web Development
-- 🔌 API Development & Integration
-- 🗄️ Database-driven Applications
-- 🎓 ERP & Business Management Systems
-- 🚀 Building real-world software solutions
-- 📚 Continuously learning and improving my development skills
+I enjoy working across the complete development lifecycle — from designing responsive interfaces and building APIs to working with databases and turning ideas into functional software.
+💻 Full Stack Web Development
+🔗 API Development & Integration
+🗄️ Database-driven Applications
+⚙️ ERP & Business Management Systems
+🚀 Building real-world software solutions
+📚 Continuously improving my development skills
 
 ---
 <div align="center">
@@ -46,24 +43,24 @@ Frontend
 </p>
 </div>
 
----
+--- 
 
 🚀 Featured Projects
 
 🍔 Food Delivery Platform
-
-Full-stack food delivery application with customer ordering, restaurant management, and order tracking. <br>
-🔗 <a href="https://github.com/Vaibhav-1786/Food_Delivery">Repository</a>
+Full-stack food delivery application with customer ordering, restaurant management, and order tracking.<br>
+Tech: HTML • CSS • JavaScript • React • Node.js • MySQL <br>
+🔗 Repository
 
 🎓 PrimeTech College ERP
-
 College ERP platform for academic management, administration, and centralized data handling.<br>
-🔗 <a href="https://github.com/Vaibhav-1786/PrimeTechCollege_ERP">Repository</a>
+Tech: HTML • CSS • JavaScript • React • Node.js • MySQL <br>
+🔗 Repository
 
 🏠 Real Estate Platform
-
 Real-estate application for property discovery, customer management, leads, and business workflows.<br>
-🔗 <a href="https://github.com/Vaibhav-1786/Real_Estate-Project">Repository</a>
+Tech: HTML • CSS • JavaScript • React • Node.js • MySQL <br>
+🔗 Repository
 
 ---
 
