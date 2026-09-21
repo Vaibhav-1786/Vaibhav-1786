@@ -65,10 +65,29 @@ Real-estate platform with property discovery, CRM workflows, analytics, customer
 ## `github activity`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-1786&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="GitHub statistics">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-1786&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top languages">
-</div>
 
+<a href="https://github.com/Vaibhav-1786">
+  <img
+    src="https://github.com/Vaibhav-1786.png?size=220"
+    width="150"
+    alt="Vaibhav Chauhan GitHub profile"
+  />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Vaibhav-1786">
+  <img
+    src="https://img.shields.io/badge/View%20GitHub%20Activity-Vaibhav--1786-111111?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Vaibhav-1786 GitHub activity"
+  />
+</a>
+
+<br><br>
+
+`Public contributions, repositories, commits, pull requests, issues, and activity are available on GitHub.`
+
+</div>
 ---
 
 ## `connect`
