@@ -108,20 +108,26 @@ https://github.com/Vaibhav-1786/Real_Estate-Project
 ---
 🤝 Connect With Me
 
-<p align="center"><a href="https://github.com/Vaibhav-1786" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="80" height="80" alt="GitHub">
-  <br>
-  <b>GitHub</b>
-</a>        
-
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://github.com/Vaibhav-1786" target="_blank">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="80" alt="GitHub">
+</a>
+<br>
+<b>GitHub</b>
+</td><td align="center">
 <a href="https://www.linkedin.com/in/vaibhav-chauhan-a6b204391/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="80" height="80" alt="LinkedIn">
-  <br>
-  <b>LinkedIn</b>
-</a>        
-
-<a href="mailto: vaibhavchauhan1786@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="80" height="80" alt="Email">
-  <br>
-  <b>Email</b>
-</a></p>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="80" alt="LinkedIn">
+</a>
+<br>
+<b>LinkedIn</b>
+</td><td align="center">
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="80" alt="Email">
+</a>
+<br>
+<b>Email</b>
+</td>
+</tr>
+</table>
