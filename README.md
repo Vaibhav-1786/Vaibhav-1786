@@ -65,8 +65,11 @@ Real-estate platform with property discovery, CRM workflows, analytics, customer
 ## `github activity`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-1786&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="GitHub statistics">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-1786&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top languages">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-1786&show_icons=true&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-1786&layout=compact&theme=dark&hide_border=true&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117)
+
 </div>
 
 ---
