@@ -42,7 +42,7 @@ Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,python,mysql" alt="Backend and database technologies">
 </p>---
-
+</div>
 🚀 Featured Projects
 
 🍔 Food Delivery Platform
@@ -135,3 +135,4 @@ https://github.com/Vaibhav-1786/Real_Estate-Project
 
   </tr>
 </table>
+</div>
