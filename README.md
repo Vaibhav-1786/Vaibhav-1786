@@ -125,7 +125,7 @@ https://github.com/Vaibhav-1786/Real_Estate-Project
 </td>
 
 <td align="center">
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto: vaibhavchauhan1786@gmail.com">
     <img src="https://img.icons8.com/color/96/gmail-new.png" width="80" alt="Email"/>
     <br/>
     <b>Email</b>
