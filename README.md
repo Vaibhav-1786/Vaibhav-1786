@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile.gif" width="100%" alt="Vaibhav Chauhan — Vaibhav-1786">
+<img src="./assets/profile.png" width="100%" alt="Vaibhav Chauhan — Vaibhav-1786">
 
 # `VAIBHAV CHAUHAN`
 
