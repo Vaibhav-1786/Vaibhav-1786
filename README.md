@@ -1,6 +1,12 @@
-<div align="center">Hi, I'm Vaibhav Chauhan 👋
+<div align="center">
 
-Full Stack Developer
+<img src="./assets/profile.jpg" width="150" alt="Vaibhav Chauhan">
+
+# Hi, I'm Vaibhav Chauhan 👋
+
+### Full Stack Developer
+
+</div>
 
 Building scalable web applications, APIs, and business-focused software solutions.
 
