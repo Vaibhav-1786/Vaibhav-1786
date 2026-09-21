@@ -106,16 +106,22 @@ https://github.com/Vaibhav-1786/Real_Estate-Project
 - Turning real-world requirements into practical software
 
 ---
-## 🤝 Let's Connect
+🤝 Connect With Me
 
-<p align="center">
+<p align="center"><a href="https://github.com/Vaibhav-1786" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="80" height="80" alt="GitHub">
+  <br>
+  <b>GitHub</b>
+</a>        
+
+<a href="https://www.linkedin.com/in/vaibhav-chauhan-a6b204391/" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="80" height="80" alt="LinkedIn">
+  <br>
+  <b>LinkedIn</b>
+</a>        
 
 <a href="mailto: vaibhavchauhan1786@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<a href="https://github.com/Vaibhav-1786">
-  <img src="https://img.shields.io/badge/GitHub-Vaibhav--1786-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-
-</p>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="80" height="80" alt="Email">
+  <br>
+  <b>Email</b>
+</a></p>
