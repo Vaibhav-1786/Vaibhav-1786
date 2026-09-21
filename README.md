@@ -41,8 +41,10 @@ Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,python,mysql" alt="Backend and database technologies">
-</p>---
+</p>
 </div>
+
+---
 
 🚀 Featured Projects
 
