@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile.jpg" width="150" alt="Vaibhav Chauhan">
+<img src="./assets/profile.png" width="150" alt="Vaibhav Chauhan">
 
 # Hi, I'm Vaibhav Chauhan 👋
 
