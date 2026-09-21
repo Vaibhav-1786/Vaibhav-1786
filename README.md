@@ -30,7 +30,7 @@ I enjoy working across the entire development lifecycle — from designing inter
 - 📚 Continuously learning and improving my development skills
 
 ---
-
+<div align="center">
 🛠️ Tech Stack
 
 Frontend
@@ -106,6 +106,7 @@ https://github.com/Vaibhav-1786/Real_Estate-Project
 - Turning real-world requirements into practical software
 
 ---
+<div align="center">
 🤝 Connect With Me
 
 <table>
