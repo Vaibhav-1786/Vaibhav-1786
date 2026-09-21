@@ -19,8 +19,11 @@ Building scalable web applications, APIs, and business-focused software solution
 ---
 
 👨‍💻 About Me
+
 I'm a Full Stack Developer focused on building practical, reliable, and user-focused web applications.<br>
+
 I enjoy working across the complete development lifecycle — from designing responsive interfaces and building APIs to working with databases and turning ideas into functional software.<br>
+
 💻 Full Stack Web Development <br>
 🔗 API Development & Integration <br>
 🗄️ Database-driven Applications <br>
