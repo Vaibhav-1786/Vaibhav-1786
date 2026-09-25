@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Vaibhav Chauhan GitHub profile, terminal and code-grid dashboard">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050812"/><stop offset=".52" stop-color="#0B1322"/><stop offset="1" stop-color="#06151A"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#2DD4BF"/></linearGradient>
+  <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#94A3B8" stroke-opacity=".045"/></pattern>
+  <pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="2.5" cy="2.5" r="1.35" fill="#22D3EE" opacity=".65"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="shadow"><feGaussianBlur in="SourceAlpha" stdDeviation="7"/><feOffset dy="5"/><feComponentTransfer><feFuncA type="linear" slope=".28"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="left"><rect x="66" y="157" width="402" height="371" rx="13"/></clipPath>
+</defs>
+
+<rect width="1180" height="610" fill="#020617"/>
+<rect x="18" y="18" width="1144" height="574" rx="28" fill="url(#bg)" stroke="#334155" stroke-width="1.5"/>
+<rect x="18" y="18" width="1144" height="574" rx="28" fill="url(#grid)"/>
+
+<circle cx="170" cy="180" r="230" fill="#22D3EE" opacity=".045"><animate attributeName="cx" values="170;230;170" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="1020" cy="470" r="260" fill="#8B5CF6" opacity=".045"><animate attributeName="cy" values="470;420;470" dur="12s" repeatCount="indefinite"/></circle>
+
+<!-- top bar -->
+<rect x="40" y="40" width="1100" height="52" rx="13" fill="#0A111F" stroke="#475569" stroke-opacity=".75"/>
+<circle cx="65" cy="66" r="7" fill="#F87171"/><circle cx="88" cy="66" r="7" fill="#FBBF24"/><circle cx="111" cy="66" r="7" fill="#34D399"/>
+<text x="137" y="72" fill="#A5B4FC" font-family="monospace" font-size="14">vaibhav/README.md</text>
+<text x="860" y="72" fill="#64748B" font-family="monospace" font-size="12">&lt;&gt; Code</text>
+<text x="936" y="72" fill="#64748B" font-family="monospace" font-size="12">▣ Projects</text>
+<text x="1028" y="72" fill="#64748B" font-family="monospace" font-size="12">▤ Experience</text>
+<text x="1117" y="72" text-anchor="end" fill="#67E8F9" font-family="monospace" font-size="12">∞ Contact</text>
+
+<!-- panels -->
+<rect x="40" y="108" width="454" height="454" rx="20" fill="#0A111F" fill-opacity=".82" stroke="#475569" stroke-opacity=".75" filter="url(#shadow)"/>
+<rect x="516" y="108" width="624" height="454" rx="20" fill="#0A111F" fill-opacity=".78" stroke="#475569" stroke-opacity=".75" filter="url(#shadow)"/>
+
+<!-- left -->
+<text x="66" y="137" fill="#67E8F9" font-family="monospace" font-size="12" letter-spacing="2">VISUAL.MAP</text>
+<line x1="66" y1="149" x2="468" y2="149" stroke="#334155"/>
+<rect x="66" y="157" width="402" height="371" rx="13" fill="#050A13" stroke="#164E63"/>
+
+<g clip-path="url(#left)">
+  <rect x="66" y="157" width="402" height="371" fill="url(#dots)" opacity=".9"/>
+  <path d="M66 215H468M66 275H468M66 335H468M66 395H468M66 455H468M66 515H468" stroke="#22D3EE" stroke-opacity=".08"/>
+
+  <!-- professional abstract code-grid identity -->
+  <g transform="translate(92 185)">
+    <rect x="0" y="0" width="350" height="270" rx="16" fill="#07101D" fill-opacity=".88" stroke="#1E3A4A"/>
+    <text x="24" y="31" fill="#22D3EE" font-family="monospace" font-size="11">&gt;_ IDENTITY.NODE</text>
+    <text x="24" y="57" fill="#64748B" font-family="monospace" font-size="10">PROFILE_RENDER / ONLINE</text>
+
+    <!-- code-bracket emblem -->
+    <g transform="translate(72 82)" filter="url(#glow)">
+      <path d="M62 10L18 54L62 98" fill="none" stroke="#22D3EE" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M146 10L190 54L146 98" fill="none" stroke="#8B5CF6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M122 4L86 104" stroke="#E2E8F0" stroke-width="5" stroke-linecap="round" opacity=".85"/>
+    </g>
+
+    <text x="175" y="220" text-anchor="middle" fill="#F8FAFC" font-family="monospace" font-size="20" font-weight="700" letter-spacing="2">VAIBHAV-1786</text>
+    <text x="175" y="244" text-anchor="middle" fill="#67E8F9" font-family="monospace" font-size="10" letter-spacing="3">BUILD • SHIP • LEARN</text>
+  </g>
+
+  <!-- animated data bars -->
+  <g transform="translate(92 474)">
+    <rect x="0" y="0" width="42" height="4" rx="2" fill="#22D3EE"><animate attributeName="width" values="42;92;42" dur="3s" repeatCount="indefinite"/></rect>
+    <rect x="112" y="0" width="66" height="4" rx="2" fill="#8B5CF6"><animate attributeName="width" values="66;28;66" dur="2.7s" repeatCount="indefinite"/></rect>
+    <rect x="205" y="0" width="52" height="4" rx="2" fill="#2DD4BF"><animate attributeName="width" values="52;100;52" dur="3.5s" repeatCount="indefinite"/></rect>
+  </g>
+  <text x="267" y="512" text-anchor="middle" fill="#64748B" font-family="monospace" font-size="10">github://developer.identity</text>
+</g>
+
+<!-- right -->
+<text x="542" y="137" fill="#67E8F9" font-family="monospace" font-size="12" letter-spacing="2">SYSTEM.INFO</text>
+<text x="1112" y="137" text-anchor="end" fill="#34D399" font-family="monospace" font-size="11">● online</text>
+<line x1="542" y1="149" x2="1112" y2="149" stroke="#334155"/>
+
+<text x="542" y="180" fill="#60A5FA" font-family="monospace" font-size="13" font-weight="700">vaibhav@github:~#</text>
+<text x="692" y="180" fill="#F8FAFC" font-family="monospace" font-size="13">./profile.sh</text>
+
+<text x="542" y="210" fill="#67E8F9" font-family="monospace" font-size="12">&gt; Name</text>
+<text x="690" y="210" fill="#475569" font-family="monospace" font-size="12">........................</text>
+<text x="875" y="210" fill="#E2E8F0" font-family="monospace" font-size="13">Vaibhav Chauhan</text>
+
+<text x="542" y="237" fill="#67E8F9" font-family="monospace" font-size="12">&gt; GitHub</text>
+<text x="690" y="237" fill="#475569" font-family="monospace" font-size="12">........................</text>
+<text x="875" y="237" fill="#67E8F9" font-family="monospace" font-size="13">Vaibhav-1786</text>
+
+<text x="542" y="264" fill="#67E8F9" font-family="monospace" font-size="12">&gt; Mode</text>
+<text x="690" y="264" fill="#475569" font-family="monospace" font-size="12">........................</text>
+<text x="875" y="264" fill="#E2E8F0" font-family="monospace" font-size="13">PROJECT BUILDER</text>
+
+<text x="542" y="291" fill="#67E8F9" font-family="monospace" font-size="12">&gt; Projects</text>
+<text x="690" y="291" fill="#475569" font-family="monospace" font-size="12">....................</text>
+<text x="875" y="291" fill="#E2E8F0" font-family="monospace" font-size="13">03 FEATURED REPOSITORIES</text>
+
+<text x="542" y="328" fill="#67E8F9" font-family="monospace" font-size="12">&gt; Featured</text>
+<circle cx="554" cy="353" r="4" fill="#22D3EE"/><text x="570" y="357" fill="#67E8F9" font-family="monospace" font-size="12">Food Delivery</text><text x="730" y="357" fill="#64748B" font-family="monospace" font-size="10">github.com/Vaibhav-1786/Food_Delivery</text>
+<circle cx="554" cy="381" r="4" fill="#A78BFA"/><text x="570" y="385" fill="#A5B4FC" font-family="monospace" font-size="12">PrimeTech College ERP</text><text x="730" y="385" fill="#64748B" font-family="monospace" font-size="10">github.com/Vaibhav-1786/PrimeTechCollege_ERP</text>
+<circle cx="554" cy="409" r="4" fill="#34D399"/><text x="570" y="413" fill="#6EE7B7" font-family="monospace" font-size="12">Real Estate Project</text><text x="730" y="413" fill="#64748B" font-family="monospace" font-size="10">github.com/Vaibhav-1786/Real_Estate-Project</text>
+
+<text x="542" y="448" fill="#67E8F9" font-family="monospace" font-size="12">&gt; Links</text>
+<text x="570" y="475" fill="#94A3B8" font-family="monospace" font-size="12">GitHub</text><text x="700" y="475" fill="#64748B" font-family="monospace" font-size="10">github.com/Vaibhav-1786</text>
+<text x="570" y="501" fill="#94A3B8" font-family="monospace" font-size="12">Profile</text><text x="700" y="501" fill="#64748B" font-family="monospace" font-size="10">README.md</text>
+<text x="542" y="532" fill="#60A5FA" font-family="monospace" font-size="12">vaibhav@github:~#</text>
+<rect x="692" y="521" width="7" height="15" fill="#67E8F9"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+
+<rect x="18" y="18" width="1144" height="574" rx="28" fill="none" stroke="url(#line)" stroke-opacity=".32"><animate attributeName="stroke-opacity" values=".15;.5;.15" dur="7s" repeatCount="indefinite"/></rect>
+</svg>
