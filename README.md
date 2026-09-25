@@ -61,5 +61,7 @@ A full-stack real-estate platform: a customer-facing property portal, a password
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vaibhav--1786-181717?style=for-the-badge&logo=github)](https://github.com/Vaibhav-1786)
+[![Email](https://img.shields.io/badge/Email-vaibhavchauhan1786%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavchauhan1786@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhav%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-chauhan-a6b204391)
 
 </div>
