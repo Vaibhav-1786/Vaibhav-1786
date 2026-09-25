@@ -56,12 +56,33 @@ A full-stack real-estate platform: a customer-facing property portal, a password
 
 <br>
 
-## Connect
 
+## 🤝 Connect With Me
 <div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Vaibhav-1786">
+        <img src="https://img.icons8.com/color/96/github--v1.png" width="80" alt="GitHub"/>
+        <br/>
+        <b>GitHub</b>
+      </a>
+    </td><td align="center">
+  <a href="https://www.linkedin.com/in/vaibhav-chauhan-a6b204391/">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="80" alt="LinkedIn"/>
+    <br/>
+    <b>LinkedIn</b>
+  </a>
+</td>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Vaibhav--1786-181717?style=for-the-badge&logo=github)](https://github.com/Vaibhav-1786)
-[![Email](https://img.shields.io/badge/Email-vaibhavchauhan1786%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavchauhan1786@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhav%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-chauhan-a6b204391)
+<td align="center">
+  <a href="mailto: vaibhavchauhan1786@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="80" alt="Email"/>
+    <br/>
+    <b>Email</b>
+  </a>
+</td>
 
+  </tr>
+</table>
 </div>
