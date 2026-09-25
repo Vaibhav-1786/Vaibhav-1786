@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Vaibhav Chauhan GitHub profile dashboard">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070A12"/><stop offset=".5" stop-color="#101827"/><stop offset="1" stop-color="#07131A"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <radialGradient id="ambient1"><stop offset="0" stop-color="#22D3EE" stop-opacity=".18"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <radialGradient id="ambient2"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".14"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+    <pattern id="microgrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#94A3B8" stroke-opacity=".045"/>
+    </pattern>
+    <pattern id="portraitDots" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.15" fill="#67E8F9" opacity=".72"/>
+    </pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="shadow"><feGaussianBlur in="SourceAlpha" stdDeviation="8"/><feOffset dy="5"/><feComponentTransfer><feFuncA type="linear" slope=".28"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="portraitClip"><rect x="70" y="137" width="400" height="388" rx="12"/></clipPath>
+    <clipPath id="frameClip"><rect x="18" y="18" width="1144" height="574" rx="28"/></clipPath>
+  </defs>
+
+  <rect width="1180" height="610" fill="#F8FAFC"/>
+  <rect x="18" y="18" width="1144" height="574" rx="28" fill="#F8FBFD" stroke="#7DD3FC" stroke-width="1.5"/>
+  <g clip-path="url(#frameClip)">
+    <rect x="18" y="18" width="1144" height="574" fill="url(#microgrid)"/>
+    <circle cx="210" cy="150" r="250" fill="url(#ambient1)">
+      <animate attributeName="cx" values="210;250;210" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1000" cy="500" r="300" fill="url(#ambient2)">
+      <animate attributeName="cy" values="500;455;500" dur="15s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- browser/terminal header -->
+    <rect x="40" y="40" width="1100" height="52" rx="13" fill="#F8FAFC" stroke="#94A3B8" stroke-opacity=".72"/>
+    <circle cx="65" cy="66" r="7" fill="#F87171"/><circle cx="88" cy="66" r="7" fill="#FBBF24"/><circle cx="111" cy="66" r="7" fill="#34D399"/>
+    <text x="137" y="72" fill="#A5B4FC" font-family="ui-monospace,monospace" font-size="14">vaibhav/README.md</text>
+    <text x="855" y="72" fill="#64748B" font-family="ui-monospace,monospace" font-size="12">&lt;&gt; Code</text>
+    <text x="932" y="72" fill="#64748B" font-family="ui-monospace,monospace" font-size="12">▣ Projects</text>
+    <text x="1025" y="72" fill="#64748B" font-family="ui-monospace,monospace" font-size="12">▤ Experience</text>
+    <text x="1100" y="72" text-anchor="end" fill="#67E8F9" font-family="ui-monospace,monospace" font-size="12">∞ Contact</text>
+
+    <!-- panels -->
+    <rect x="40" y="108" width="454" height="454" rx="20" fill="#FFFFFF" fill-opacity=".88" stroke="#7DD3FC" stroke-opacity=".75" filter="url(#shadow)"/>
+    <rect x="516" y="108" width="624" height="454" rx="20" fill="#FFFFFF" fill-opacity=".90" stroke="#7DD3FC" stroke-opacity=".75" filter="url(#shadow)"/>
+
+    <text x="66" y="137" fill="#67E8F9" font-family="ui-monospace,monospace" font-size="12" letter-spacing="2">VISUAL.MAP</text>
+    <line x1="66" y1="149" x2="468" y2="149" stroke="#CBD5E1"/>
+
+    <!-- sample-inspired digital portrait: generic silhouette, not a real person's face -->
+    <rect x="66" y="158" width="402" height="350" rx="13" fill="#172033" stroke="#67E8F9"/>
+    <g clip-path="url(#portraitClip)">
+      <rect x="70" y="137" width="400" height="388" fill="url(#portraitDots)"/>
+      <g fill="none" stroke="#22D3EE" stroke-opacity=".18">
+        <path d="M70 200H470M70 240H470M70 280H470M70 320H470M70 360H470M70 400H470M70 440H470M70 480H470"/>
+      </g>
+
+      <!-- generic bust silhouette -->
+      <path d="M270 183
+               C220 183 188 224 188 278
+               C188 325 204 349 225 365
+               C203 378 177 395 150 421
+               C126 444 111 475 103 518
+               L437 518
+               C429 475 414 444 390 421
+               C363 395 337 378 315 365
+               C336 349 352 325 352 278
+               C352 224 320 183 270 183 Z"
+            fill="#1E293B" stroke="#67E8F9" stroke-width="2" stroke-opacity=".75" filter="url(#glow)"/>
+      <!-- hair / glasses as abstract geometric details -->
+      <path d="M192 263 C198 213 229 190 270 190 C311 190 342 213 348 263"
+            fill="none" stroke="#A5B4FC" stroke-width="5" stroke-linecap="round" opacity=".75"/>
+      <rect x="211" y="270" width="48" height="30" rx="10" fill="none" stroke="#67E8F9" stroke-width="2"/>
+      <rect x="281" y="270" width="48" height="30" rx="10" fill="none" stroke="#67E8F9" stroke-width="2"/>
+      <path d="M259 284H281" stroke="#67E8F9" stroke-width="2"/>
+      <path d="M224 344 Q270 370 316 344" fill="none" stroke="#8B5CF6" stroke-width="2" opacity=".7"/>
+      <path d="M188 420 Q270 382 352 420" fill="none" stroke="#22D3EE" stroke-width="2" opacity=".7"/>
+      <path d="M151 470 Q270 425 389 470" fill="none" stroke="#8B5CF6" stroke-width="2" opacity=".55"/>
+      <!-- scanning line -->
+      <rect x="70" y="165" width="400" height="2" fill="#67E8F9" opacity=".45">
+        <animate attributeName="y" values="165;505;165" dur="6s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <text x="267" y="536" text-anchor="middle" fill="#0F172A" font-family="ui-monospace,monospace" font-size="13" font-weight="700">VAIBHAV-1786</text>
+
+    <!-- system info -->
+    <text x="542" y="137" fill="#67E8F9" font-family="ui-monospace,monospace" font-size="12" letter-spacing="2">SYSTEM.INFO</text>
+    <text x="1112" y="137" text-anchor="end" fill="#34D399" font-family="ui-monospace,monospace" font-size="11">● online</text>
+    <line x1="542" y1="149" x2="1112" y2="149" stroke="#CBD5E1"/>
+
+    <text x="542" y="180" fill="#60A5FA" font-family="ui-monospace,monospace" font-size="13" font-weight="700">vaibhav@github:~#</text>
+    <text x="690" y="180" fill="#0F172A" font-family="ui-monospace,monospace" font-size="13">./profile.sh</text>
+
+    <text x="542" y="208" fill="#67E8F9" font-family="ui-monospace,monospace" font-size="12">&gt; Name</text>
+    <text x="700" y="208" fill="#475569" font-family="ui-monospace,monospace" font-size="12">........................</text>
+    <text x="875" y="208" fill="#1E293B" font-family="ui-monospace,monospace" font-size="13">Vaibhav Chauhan</text>
+
+    <text x="542" y="234" fill="#67E8F9" font-family="ui-monospace,monospace" font-size="12">&gt; GitHub</text>
+    <text x="700" y="234" fill="#475569" font-family="ui-monospace,monospace" font-size="12">........................</text>
+    <text x="875" y="234" fill="#67E8F9" font-family="ui-monospace,monospace" font-size="13">Vaibhav-1786</text>
+
+    <text x="542" y="260" fill="#67E8F9" font-family="ui-monospace,monospace" font-size="12">&gt; Mode</text>
+    <text x="700" y="260" fill="#475569" font-family="ui-monospace,monospace" font-size="12">........................</text>
+    <text x="875" y="260" fill="#1E293B" font-family="ui-monospace,monospace" font-size="13">PROJECT BUILDER</text>
+
+    <text x="542" y="286" fill="#67E8F9" font-family="ui-monospace,monospace" font-size="12">&gt; Projects</text>
+    <text x="700" y="286" fill="#475569" font-family="ui-monospace,monospace" font-size="12">....................</text>
+    <text x="875" y="286" fill="#1E293B" font-family="ui-monospace,monospace" font-size="13">03 FEATURED REPOSITORIES</text>
+
+    <text x="542" y="322" fill="#67E8F9" font-family="ui-monospace,monospace" font-size="12">&gt; Featured</text>
+
+    <g>
+      <circle cx="554" cy="346" r="4" fill="#22D3EE"/>
+      <text x="570" y="350" fill="#67E8F9" font-family="ui-monospace,monospace" font-size="12">Food Delivery</text>
+      <text x="730" y="350" fill="#64748B" font-family="ui-monospace,monospace" font-size="11">github.com/Vaibhav-1786/Food_Delivery</text>
+    </g>
+    <g>
+      <circle cx="554" cy="374" r="4" fill="#A78BFA"/>
+      <text x="570" y="378" fill="#A5B4FC" font-family="ui-monospace,monospace" font-size="12">PrimeTech College ERP</text>
+      <text x="730" y="378" fill="#64748B" font-family="ui-monospace,monospace" font-size="11">github.com/Vaibhav-1786/PrimeTechCollege_ERP</text>
+    </g>
+    <g>
+      <circle cx="554" cy="402" r="4" fill="#34D399"/>
+      <text x="570" y="406" fill="#6EE7B7" font-family="ui-monospace,monospace" font-size="12">Real Estate Project</text>
+      <text x="730" y="406" fill="#64748B" font-family="ui-monospace,monospace" font-size="11">github.com/Vaibhav-1786/Real_Estate-Project</text>
+    </g>
+
+    <text x="542" y="442" fill="#67E8F9" font-family="ui-monospace,monospace" font-size="12">&gt; Links</text>
+    <text x="570" y="468" fill="#475569" font-family="ui-monospace,monospace" font-size="12">GitHub</text>
+    <text x="700" y="468" fill="#64748B" font-family="ui-monospace,monospace" font-size="11">github.com/Vaibhav-1786</text>
+
+    <text x="570" y="494" fill="#475569" font-family="ui-monospace,monospace" font-size="12">Profile</text>
+    <text x="700" y="494" fill="#64748B" font-family="ui-monospace,monospace" font-size="11">README.md</text>
+
+    <text x="542" y="528" fill="#60A5FA" font-family="ui-monospace,monospace" font-size="12">vaibhav@github:~#</text>
+    <rect x="691" y="517" width="7" height="15" fill="#67E8F9">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="18" y="18" width="1144" height="574" rx="28" fill="none" stroke="url(#edge)" stroke-opacity=".35">
+      <animate attributeName="stroke-opacity" values=".18;.5;.18" dur="7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
