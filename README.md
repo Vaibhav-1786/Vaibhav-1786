@@ -127,6 +127,14 @@ I believe in learning by building real-world projects and continuously improving
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://gh-readme-profile.vercel.app/api?username=Vaibhav-1786&hide=forks,prs_merged,issues,contributed" alt="GitHub profile statistics">
+</p>
+
+---
+
 🤝 Connect With Me
 
 <div align="center">
