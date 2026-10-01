@@ -1,1 +1,47 @@
+name: Update Profile Projects
 
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Every day at 5:00 PM UTC (10:30 PM IST)
+    - cron: "0 17 * * *"
+
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/scripts/update_projects.py"
+      - ".github/workflows/update-projects.yml"
+      - "README.md"
+
+permissions:
+  contents: write
+
+jobs:
+  update-projects:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Update projects in README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python .github/scripts/update_projects.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No project changes to commit."
+          else
+            git commit -m "chore: update profile projects"
+            git push
+          fi
