@@ -131,7 +131,7 @@ I believe in learning by building real-world projects and continuously improving
 
 <p align="center">
   <img
-    src="https://gh-readme-profile.vercel.app/api?username=Vaibhav-1786"
+    src="https://gh-readme-profile.vercel.app/api?username=Vaibhav-1786&hide=forks,prs_merged,issues,contributed"
     alt="Vaibhav-1786 GitHub Activity"
   />
 </p>
