@@ -59,66 +59,17 @@
 
 ---
 
-🚀 Featured Projects
+🚀 Projects
 
-🍔 Food Delivery Platform
+<!-- PROJECTS:START -->
+> Projects are updated automatically from my public GitHub repositories.
 
-A full-stack food delivery platform with separate Customer, Restaurant, and Admin portals.
+| Project | Description | Updated |
+|---|---|---|
+| _Updating automatically..._ | The latest repositories will appear here. | — |
 
-Key Features
-
-- 🛒 Cart, ordering and checkout
-- 📦 Order tracking
-- ⭐ Loyalty and referral system
-- 👥 Group ordering
-- 🍽️ Meal planning
-- 🔐 Role-based access control
-
-Tech Stack:
-"React" · "Vite" · "Python" · "Flask" · "MySQL" · "JWT" · "Google OAuth" · "Razorpay"
-
-Repository: "Food_Delivery" (https://github.com/Vaibhav-1786/Food_Delivery)
-
----
-
-🎓 PrimeTech College ERP
-
-A full-stack college management and community platform combining student interaction with administrative modules.
-
-Modules
-
-- 🎓 Admissions
-- 💰 Fee collection
-- 📊 Results & marksheets
-- 📅 Timetables
-- 📝 Attendance
-- 💬 Real-time chat and presence
-- 👥 Student social feed
-
-Tech Stack:
-"React" · "Vite" · "PHP" · "Node.js" · "Socket.IO" · "MySQL"
-
-Repository: "PrimeTechCollege_ERP" (https://github.com/Vaibhav-1786/PrimeTechCollege_ERP)
-
----
-
-🏠 Real Estate Platform
-
-A full-stack real-estate platform with customer-facing property services and a role-based admin/CRM system.
-
-Key Features
-
-- 🏘️ Property portal
-- 🔑 Passwordless OTP authentication
-- 👤 Customer account management
-- 🛠️ Admin/CRM dashboard
-- 🔌 REST API
-- 📊 Analytics microservice
-
-Tech Stack:
-"React" · "Node.js" · "Express" · "FastAPI" · "MySQL" · "JWT"
-
-Repository: "Real_Estate-Project" (https://github.com/Vaibhav-1786/Real_Estate-Project)
+**[→ View all repositories](https://github.com/Vaibhav-1786?tab=repositories)**
+<!-- PROJECTS:END -->
 
 ---
 
