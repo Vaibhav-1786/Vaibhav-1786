@@ -14,8 +14,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Test updater
+      - name: Test
         run: |
+          echo "Workflow started successfully"
           python --version
           ls -la
-          ls -la .github/scripts
