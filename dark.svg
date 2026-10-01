@@ -89,15 +89,6 @@
 <text x="690" y="291" fill="#475569" font-family="monospace" font-size="12">....................</text>
 <text x="875" y="291" fill="#E2E8F0" font-family="monospace" font-size="13">MANY FEATURED REPOSITORIES</text>
 
-<!-- project constellation -->
-<rect x="542" y="319" width="570" height="108" rx="14" fill="#07101D" stroke="#164E63"/>
-<text x="560" y="343" fill="#67E8F9" font-family="monospace" font-size="11" letter-spacing="2">PROJECT CONSTELLATION</text>
-<circle cx="560" cy="363" r="3" fill="#22D3EE"/><text x="574" y="367" fill="#E2E8F0" font-family="monospace" font-size="11">Food Delivery</text><text x="574" y="383" fill="#64748B" font-family="monospace" font-size="9">PRODUCT • UI • API</text>
-<circle cx="752" cy="363" r="3" fill="#A78BFA"/><text x="766" y="367" fill="#E2E8F0" font-family="monospace" font-size="11">PrimeTech College ERP</text><text x="766" y="383" fill="#64748B" font-family="monospace" font-size="9">SYSTEM • DATA • WORKFLOW</text>
-<circle cx="970" cy="363" r="3" fill="#34D399"/><text x="984" y="367" fill="#E2E8F0" font-family="monospace" font-size="11">Real Estate Project</text><text x="984" y="383" fill="#64748B" font-family="monospace" font-size="9">PLATFORM • SEARCH • UI</text>
-<line x1="560" y1="402" x2="1094" y2="402" stroke="#334155"/>
-<text x="560" y="417" fill="#64748B" font-family="monospace" font-size="9">CRAFTED FROM IDEAS → BUILT INTO EXPERIENCES</text>
-
 <text x="542" y="455" fill="#67E8F9" font-family="monospace" font-size="12">&gt; Links</text>
 <text x="570" y="480" fill="#94A3B8" font-family="monospace" font-size="12">GitHub</text><text x="700" y="480" fill="#64748B" font-family="monospace" font-size="10">github.com/Vaibhav-1786</text>
 <text x="570" y="506" fill="#94A3B8" font-family="monospace" font-size="12">Profile</text><text x="700" y="506" fill="#64748B" font-family="monospace" font-size="10">README.md</text>
