@@ -66,10 +66,10 @@
 
 | Project | Description | Updated |
 |---|---|---|
-| [ClinicConnect](https://github.com/Vaibhav-1786/ClinicConnect) | ClinicConnect — full-stack clinic & hospital management platform for India. Role-based portals for patients, doctors, receptionists and admins: appointments, OPD queue, prescriptions, billing, video consultation, 2FA and Hindi/Gujarati/English UI. React + Flask + MySQL. | 02 Oct 2026 |
-| [PrimeTechCollege_ERP](https://github.com/Vaibhav-1786/PrimeTechCollege_ERP) | Full-stack campus management platform — student social feed, admissions, fee payments, results, timetable, attendance, and an AI assistant, built with React, PHP, Node/Socket.IO, and MySQL. | 01 Oct 2026 |
-| [Real_Estate-Project](https://github.com/Vaibhav-1786/Real_Estate-Project) | Full-stack Indian luxury real-estate platform — property listings, EMI calculator, passwordless OTP customer portal, and a role-based admin/CRM back office, built with React, Node/Express, Python FastAPI, and MySQL. | 01 Oct 2026 |
-| [Food_Delivery](https://github.com/Vaibhav-1786/Food_Delivery) | Full-stack food delivery platform with Customer, Restaurant & Admin panels — React + Flask + MySQL, JWT auth, Razorpay payments, and server-side role-based access control. | 01 Oct 2026 |
+| [Real_Estate-Project](https://github.com/Vaibhav-1786/Real_Estate-Project) | Full-stack Indian luxury real-estate platform — property listings, EMI calculator, passwordless OTP customer portal, and a role-based admin/CRM back office, built with React, Node/Express, Python FastAPI, and MySQL. | 03 Oct 2026 |
+| [PrimeTechCollege_ERP](https://github.com/Vaibhav-1786/PrimeTechCollege_ERP) | Full-stack campus management platform — student social feed, admissions, fee payments, results, timetable, attendance, and an AI assistant, built with React, PHP, Node/Socket.IO, and MySQL. | 03 Oct 2026 |
+| [Food_Delivery](https://github.com/Vaibhav-1786/Food_Delivery) | Full-stack food delivery platform with Customer, Restaurant & Admin panels — React + Flask + MySQL, JWT auth, Razorpay payments, and server-side role-based access control. | 03 Oct 2026 |
+| [ClinicConnect](https://github.com/Vaibhav-1786/ClinicConnect) | ClinicConnect — full-stack clinic & hospital management platform for India. Role-based portals for patients, doctors, receptionists and admins: appointments, OPD queue, prescriptions, billing, video consultation, 2FA and Hindi/Gujarati/English UI. React + Flask + MySQL. | 03 Oct 2026 |
 | [PHP_LabWork](https://github.com/Vaibhav-1786/PHP_LabWork) | Open-source project and development work. | 15 Aug 2026 |
 | [PHP_Classroom](https://github.com/Vaibhav-1786/PHP_Classroom) | Open-source project and development work. | 15 Jul 2026 |
 
