@@ -66,7 +66,7 @@
 
 | Project | Description | Updated |
 |---|---|---|
-| [Android_7082](https://github.com/Vaibhav-1786/Android_7082) | Open-source project and development work. | 15 Oct 2026 |
+| [Android_7082](https://github.com/Vaibhav-1786/Android_7082) | Open-source project and development work. | 27 Oct 2026 |
 | [Clinic_appointment_laravel](https://github.com/Vaibhav-1786/Clinic_appointment_laravel) | Open-source project and development work. | 13 Oct 2026 |
 | [Real_Estate-Project](https://github.com/Vaibhav-1786/Real_Estate-Project) | Full-stack Indian luxury real-estate platform — property listings, EMI calculator, passwordless OTP customer portal, and a role-based admin/CRM back office, built with React, Node/Express, Python FastAPI, and MySQL. | 05 Oct 2026 |
 | [ClinicConnect](https://github.com/Vaibhav-1786/ClinicConnect) | ClinicConnect — full-stack clinic & hospital management platform for India. Role-based portals for patients, doctors, receptionists and admins: appointments, OPD queue, prescriptions, billing, video consultation, 2FA and Hindi/Gujarati/English UI. React + Flask + MySQL. | 05 Oct 2026 |
